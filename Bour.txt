@@ -1,0 +1,16 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 2473-CF03
+
+ R‚pertoire de C:\Users\Destock\app1
+
+16/03/2024  15:24    <DIR>          .
+16/03/2024  15:24    <DIR>          ..
+16/03/2024  15:24                 0 Bour.txt
+16/03/2024  15:14                12 dev1.txt
+05/03/2024  14:48               414 f1.txt
+16/03/2024  15:06                18 f11.txt
+05/03/2024  14:48               458 f2.txt
+16/03/2024  15:14               502 f3.txt
+16/03/2024  15:14               370 fichier1.txt
+               7 fichier(s)            1ÿ774 octets
+               2 R‚p(s)     400ÿ261ÿ120 octets libres
